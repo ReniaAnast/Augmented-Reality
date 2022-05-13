@@ -15,7 +15,18 @@
 Τέλος μόλις ολοκλήρωσα τον κώδικα, το αποθήκευσα στον υπολογιστή μου και αντικατέστησα το αρχείο μέσα στον φάκελο "marker based".
 
 # 2nd Deliverable
+Για το δεύτερο παραδοτέο, έφτιαξα τρία patterns, τα Png και τους κωδικές τους που είναι όλα στον φάκελο assets μέσα στο marker based. 
+Με την σειρά τα pattern είναι:
 
+-pattern-dpsd19004(1).patt και pattern-dpsd19004(1).png
+-pattern-card-H.patt & pattern-card-H.png για τον WOLF
+-pattern-card-O.patt & pattern-card-O.png για το UFO
+Μετά από τα παραπάνω βήματα βρήκα στο intenert δύο animations ένα λυκο το 'WOLF' και έναν υπτάμενο δίσκο το 'UFO' τα οποία υπάρχουν και τα δύο στα assets με τα ονοματα
+
+-WOLf.glb
+-UFO.glb
+Ξεκινώντνας τον κώδικα, εμφανίζεται το ονομά μου και η φωτογραφία που είναι στα assets ως travis.jpg. 
+Έπειτα μέσω του σκανρισματός  barcode pattern-card-H και pattern-card-O θα εμφανίζονται το WOLF & το UFO αντιστοιχά
 
 # 3rd Deliverable 
 
